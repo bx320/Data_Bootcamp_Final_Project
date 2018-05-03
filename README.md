@@ -3,6 +3,7 @@ My final project <br>
 
 This project was completed by Brenda Xu in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project.
+
 In particular, I have: <br>
 
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
