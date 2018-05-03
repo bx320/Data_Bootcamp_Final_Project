@@ -1,8 +1,8 @@
 # Data_Bootcamp_Final_Project
-My final project 
+My final project <br>
 This project was completed by Brenda Xu in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project.
-In particular, I have:
+In particular, I have: <br>
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
 The incorporation of the work of others–including but not limited to their ideas, data, creative
 expression, and direct quotations (which should be designated with quotation marks), or paraphrasing
