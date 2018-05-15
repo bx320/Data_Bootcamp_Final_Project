@@ -21,6 +21,7 @@ the project and course.
 
 ---
 
-Project Description
+For my project, I used two data sets I found on Kaggle, in order to see if the food preferences and eating habits of college students with a certain characteristic will put them at a higher risk of an adverse food-related event, specifically: death, nausea, vomiting, malaise. The two datasets are: Adverse Food Events, a list of adverse food events collected by the FDA over the course of about 14 years, and Food Choices of College Students, which is a survey of 126 college students' food preferences.
+
 
 
